@@ -1,0 +1,34 @@
+table, th, td
+{
+  border: 1px solid gainsboro;
+}
+
+p
+{
+  font-weight: normal;
+}
+
+#box
+{
+  border: 1px solid gainsboro;
+  font-weight: bold;
+}
+
+#welcomebox
+{
+  border: 1px solid gainsboro;
+  font-weight: bold;
+  margin: 25px;
+  padding: 25px;
+}
+
+#footer
+{
+  color: grey;
+  font-size: small;
+}
+
+.navbar
+{
+  font-weight: bold;
+}

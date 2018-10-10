@@ -1,0 +1,10 @@
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (1, 'hjt486', '0000', 'Jiatai', null, 'Han', '4803307059', 'hjt486@gmail.com');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (2, 'ssawford1', '3654', 'Emmey', null, 'Sawford', '1083375728', 'usawford1@dailymotion.com');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (3, 'dmcmyler2', '0532', 'Avictor', 'Dominique', 'McMyler', '7093795876', 'dmcmyler2@is.gd');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (4, 'wzienkiewicz3', '6930', 'Trish', null, 'Zienkiewicz', '9319374417', 'nzienkiewicz3@sciencedirect.com');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (5, 'vpepin4', '1864', 'Ailee', 'Valentina', 'Pepin', '2559191385', 'vpepin4@bigcartel.com');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (6, 'wkorba5', '2161', 'Jacki', null, 'Korba', '4746914506', 'jkorba5@alibaba.com');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (7, 'tgerrish6', '3805', 'Kessia', null, 'Gerrish', '2252540894', 'agerrish6@cyberchimps.com');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (8, 'mseabrooke7', '0467', 'Milzie', 'Maury', 'Seabrooke', '3143640771', 'mseabrooke7@discuz.net');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (9, 'khallt8', '3112', 'Philippe', null, 'Hallt', '9889809305', 'rhallt8@nbcnews.com');
+insert into users (ID, username, password, first_name, middle_name, last_name, phone, email) values (10, 'pcreelman9', '1715', 'Daryl', 'Patrice', 'Creelman', '9901539299', 'pcreelman9@tinypic.com');
